@@ -1,0 +1,25 @@
+# Temporal context TLD
+**Authors:** rongbohou, email:rongbohou@163.com
+
+
+# Prerequisites #######################################################
+install opencv2.412: http://www.samontab.com/web/2014/06/installing-opencv-2-4-9-in-ubuntu-14-04-lts/
+
+
+# build################################################################
+
+mkdir build ＆＆ cd build 
+cmake  .. 
+make 
+
+# Usage ##############################################################
+Use Temporal Context TLD tracks object,for example face\finger.First,you should use mouse
+to select a object.
+
+
+important:
+
+
+reference:
+
+《基于时间上下文跟踪-学习-检测的指尖跟踪方法》

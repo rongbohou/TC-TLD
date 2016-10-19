@@ -1,0 +1,2 @@
+/usr/bin/ar cr ../../lib/libLKTracker.a  CMakeFiles/LKTracker.dir/LKTracker.cpp.o
+/usr/bin/ranlib ../../lib/libLKTracker.a

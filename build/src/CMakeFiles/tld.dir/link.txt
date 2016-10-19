@@ -1,0 +1,2 @@
+/usr/bin/ar cr ../../lib/libtld.a  CMakeFiles/tld.dir/TLD.cpp.o
+/usr/bin/ranlib ../../lib/libtld.a
